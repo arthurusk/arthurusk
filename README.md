@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arthurusk
-- 👀 I’m interested in music, 3D design, Unity.
+- 👀 I’m interested in music, 3D design, Unity, archery, cycling
 - 🌱 I’m currently learning Unity and C# to create AR apps :)
 - 📫 How to reach me? There must be a feature here on github to do that. (I am sort of new here)
 
